@@ -1,0 +1,2 @@
+[lfs]
+	fetchexclude = generic/mds_pointclouds/objects/table_setups/erl-service-italy-2017-objects/*
