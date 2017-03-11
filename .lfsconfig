@@ -1,2 +1,2 @@
 [lfs]
-	fetchinclude = generic/mds_pointclouds/objects/workspace_setups/objects_laying/*
+	fetchinclude = generic/mds_pointclouds/objects/workspace_setups/objects_laying/*, generic/mds_pointclouds/people/single_persons/*
