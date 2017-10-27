@@ -1,3 +1,5 @@
+[![pipeline status](https://mas.b-it-center.de/gitgate/mas-group/mas_datasets/badges/indigo/pipeline.svg)](https://mas.b-it-center.de/gitgate/mas-group/mas_datasets/commits/indigo)
+
 ## Git Large File Storage (LFS)
 This repository has git LFS enabled for .pcd files (specified in [.gitattributes](./.gitattributes)
 ).
