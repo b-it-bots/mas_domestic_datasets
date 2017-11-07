@@ -15,7 +15,7 @@ stages:
 build:
   stage: build
   script:
-    - git lfs clone -b $ROS_RELEASE gitgate@mas.b-it-center.de:mas-group/$REPOSITORY_NAME.git
+    - git lfs pull gitgate@mas.b-it-center.de:mas-group/$REPOSITORY_NAME.git $ROS_RELEASE
     - mkdir -p $CI_PROJECT_DIR/../src
     - cd $CI_PROJECT_DIR/..
     - cp -r $REPOSITORY_NAME src
