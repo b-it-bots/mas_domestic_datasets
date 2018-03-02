@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>mds_pointclouds</name>
+  <name>mds_home_setups</name>
   <version>0.0.1</version>
   <description>
     Various point cloud datasets
