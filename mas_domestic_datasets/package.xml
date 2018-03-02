@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>mas_datasets</name>
+  <name>mas_domestic_datasets</name>
   <version>0.0.1</version>
   <description>Datasets in form of point clouds, laser scans, bag files, images, training sets, ...</description>
 
