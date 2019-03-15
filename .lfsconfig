@@ -1,2 +1,2 @@
 [lfs]
-	fetchinclude = mds_home_setups/people/single_persons/*
+	fetchinclude = mds_home_setups/**/*
